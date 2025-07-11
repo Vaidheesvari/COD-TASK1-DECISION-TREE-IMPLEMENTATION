@@ -27,3 +27,5 @@ To evaluate the model, metrics such as accuracy score and classification report 
 Finally, the structure of the trained decision tree is visualized using plot_tree() from sklearn.tree. This visual representation clearly shows how the model splits the data based on different feature values and how it arrives at its decisions.
 
 In conclusion, this project demonstrates the effective use of the decision tree algorithm for multi-class classification. The Iris dataset provides an excellent foundation for learning classification techniques, data preprocessing, model training, evaluation, and visualization. This project is not only useful for academic learning but also showcases the importance of explainable AI models in real-world applications.*
+
+*OUTPUT*:<img width="719" height="490" alt="Image" src="https://github.com/user-attachments/assets/8066c4e8-3390-4b0e-b86e-e65aab98600b" />
