@@ -12,7 +12,9 @@
 
 *MENTOR*:NEELA SANTHOSH
 
-*This project focuses on implementing a machine learning model to classify iris flowers into three distinct species using the Decision Tree algorithm. The entire project is carried out in Python using essential libraries such as pandas, numpy, matplotlib, seaborn, and scikit-learn. A key objective of the project is not just to build a predictive model, but also to visualize the internal structure of the decision tree to understand how decisions are made.
+*DESCRIPTION OF THE TASK*:
+
+This project focuses on implementing a machine learning model to classify iris flowers into three distinct species using the Decision Tree algorithm. The entire project is carried out in Python using essential libraries such as pandas, numpy, matplotlib, seaborn, and scikit-learn. A key objective of the project is not just to build a predictive model, but also to visualize the internal structure of the decision tree to understand how decisions are made.
 
 The dataset used is the famous Iris dataset, one of the oldest and most well-known datasets in the field of machine learning. It was introduced by statistician Ronald A. Fisher in 1936 and has been widely used for demonstrating classification algorithms. The dataset contains a total of 150 samples, with each sample representing an iris flower. There are three species in the dataset: Iris setosa, Iris versicolor, and Iris virginica, with 50 samples for each class. Each flower is described using four numerical features: sepal length, sepal width, petal length, and petal width (all in centimeters).
 
@@ -26,9 +28,11 @@ To evaluate the model, metrics such as accuracy score and classification report 
 
 Finally, the structure of the trained decision tree is visualized using plot_tree() from sklearn.tree. This visual representation clearly shows how the model splits the data based on different feature values and how it arrives at its decisions.
 
-In conclusion, this project demonstrates the effective use of the decision tree algorithm for multi-class classification. The Iris dataset provides an excellent foundation for learning classification techniques, data preprocessing, model training, evaluation, and visualization. This project is not only useful for academic learning but also showcases the importance of explainable AI models in real-world applications.*
+In conclusion, this project demonstrates the effective use of the decision tree algorithm for multi-class classification. The Iris dataset provides an excellent foundation for learning classification techniques, data preprocessing, model training, evaluation, and visualization. This project is not only useful for academic learning but also showcases the importance of explainable AI models in real-world applications.
 
 *OUTPUT*:
 
+
+<img width="719" height="490" alt="Image" src="https://github.com/user-attachments/assets/8066c4e8-3390-4b0e-b86e-e65aab98600b" />
 
 <img width="719" height="490" alt="Image" src="https://github.com/user-attachments/assets/8066c4e8-3390-4b0e-b86e-e65aab98600b" />
