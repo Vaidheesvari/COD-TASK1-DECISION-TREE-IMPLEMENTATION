@@ -35,4 +35,4 @@ In conclusion, this project demonstrates the effective use of the decision tree 
 
 <img width="719" height="490" alt="Image" src="https://github.com/user-attachments/assets/8066c4e8-3390-4b0e-b86e-e65aab98600b" />
 
-<img width="719" height="490" alt="Image" src="https://github.com/user-attachments/assets/8066c4e8-3390-4b0e-b86e-e65aab98600b" />
+<img width="1919" height="1007" alt="Image" src="https://github.com/user-attachments/assets/f7805dd0-5d43-4a8d-8c91-2160c6c8ef0c" />
